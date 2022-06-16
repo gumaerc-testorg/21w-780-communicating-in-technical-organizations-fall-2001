@@ -1,13 +1,13 @@
 ---
 content_type: page
 course_id: 21w-780-communicating-in-technical-organizations-fall-2001
+description: This section provides the schedule of course topics.
 layout: course_section
 menu:
   21w-780-communicating-in-technical-organizations-fall-2001:
     identifier: 97ff48258dc47fbe9de9b00714d004ec
     name: Calendar
     weight: 20
-parent_uid: null
 title: Calendar
 uid: 97ff4825-8dc4-7fbe-9de9-b00714d004ec
 ---

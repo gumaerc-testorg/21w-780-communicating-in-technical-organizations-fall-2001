@@ -1,13 +1,14 @@
 ---
 content_type: page
 course_id: 21w-780-communicating-in-technical-organizations-fall-2001
+description: This syllabus section provides a course overview and information on meeting
+  times, grading, and textbooks.
 layout: course_section
 menu:
   21w-780-communicating-in-technical-organizations-fall-2001:
     identifier: 63beabe5d7566e9e8558700a2cf378f6
     name: Syllabus
     weight: 10
-parent_uid: null
 title: Syllabus
 uid: 63beabe5-d756-6e9e-8558-700a2cf378f6
 ---

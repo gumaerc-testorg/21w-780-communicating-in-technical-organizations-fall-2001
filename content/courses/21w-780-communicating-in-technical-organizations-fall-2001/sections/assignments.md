@@ -1,13 +1,14 @@
 ---
 content_type: page
 course_id: 21w-780-communicating-in-technical-organizations-fall-2001
+description: This section provides information on course writing requirements and
+  the required oral report.
 layout: course_section
 menu:
   21w-780-communicating-in-technical-organizations-fall-2001:
     identifier: 44b2b094d95f4afecfd6f071489a85a9
     name: Assignments
     weight: 40
-parent_uid: null
 title: Assignments
 uid: 44b2b094-d95f-4afe-cfd6-f071489a85a9
 ---

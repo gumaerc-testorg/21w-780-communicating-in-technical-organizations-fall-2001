@@ -1,13 +1,14 @@
 ---
 content_type: page
 course_id: 21w-780-communicating-in-technical-organizations-fall-2001
+description: This section provides information on the required textbook and the reading
+  assignments for each class.
 layout: course_section
 menu:
   21w-780-communicating-in-technical-organizations-fall-2001:
     identifier: 289d5967ddf1e3d53c94224464db3019
     name: Readings
     weight: 30
-parent_uid: null
 title: Readings
 uid: 289d5967-ddf1-e3d5-3c94-224464db3019
 ---

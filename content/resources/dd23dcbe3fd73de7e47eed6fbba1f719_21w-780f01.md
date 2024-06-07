@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/21w-780-communicating-in-technical-organizations-fall-2001/dd23dcbe3fd73de7e47eed6fbba1f719_21w-780f01.jpg
+file_size: 13041
 file_type: image/jpeg
 image_metadata:
   caption: Communication is a major part of daily work for engineers. (Image courtesy
